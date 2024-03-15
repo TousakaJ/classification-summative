@@ -1,0 +1,3 @@
+# MATH52115 Summative Coursework - J.L
+
+Among countless customers, locking quickly on the potential target groups for a new personal banking loan is important for the future continuous profit of the bank. Now we have a dataset containing 5000 lines of data collected from former cutomers of a bank, of which content focusing on some of each customer’s personal information and the facts that whether they accepted to be upsold a personal banking loan or not. Our goal is to use this dataset to find out the relation between each feature of customers and the possibilities of them to be upsold a loan, and fit a model to predict for the future customers.
